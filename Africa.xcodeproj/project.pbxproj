@@ -606,7 +606,7 @@
 				CODE_SIGN_ENTITLEMENTS = Africa/Africa.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Africa/Preview Content\"";
-				DEVELOPMENT_TEAM = 238CXC7DZ6;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Africa/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -630,7 +630,7 @@
 				CODE_SIGN_ENTITLEMENTS = Africa/Africa.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Africa/Preview Content\"";
-				DEVELOPMENT_TEAM = 238CXC7DZ6;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Africa/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
